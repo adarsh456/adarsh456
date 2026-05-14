@@ -9,11 +9,13 @@
 
 
 
+<!--
+
 <a href="https://your-portfolio-link.com">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white">
 </a>
 </p>
-
+-->
 ---
 
 
@@ -66,7 +68,7 @@
   <table border="0">
     <tr>
       <td>
-        <img width="400px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=adarsh456&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+        <img width="400px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=adarsh456&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub+Stats" />
       </td>
       <td>
         <img width="400px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adarsh456&layout=compact&theme=tokyonight&hide_border=true" />
@@ -74,10 +76,14 @@
     </tr>
   </table>
 </div>
+
+
 <p align="center">
   <img width="90%"
        src="https://streak-stats.demolab.com?user=adarsh456&theme=tokyonight&hide_border=true" />
 </p>
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adarsh456&label=Profile%20Views&color=0e75b6&style=flat-square" />
@@ -88,9 +94,18 @@
   <img src="https://github-profile-trophy.vercel.app/?username=adarsh456&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
+
+
+
+<!-- this for graph of the no of contribution and day of contribution -->
+
+<!--
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adarsh456&theme=tokyo-night&hide_border=true" />
 </p>
+
+-->
 
 
 <p align="center">
